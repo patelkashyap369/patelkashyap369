@@ -1,8 +1,8 @@
-<!-- <img src="images/github_banner.png" alt="Hi, I'm Kashyap S Patel"> -->
+<img src="images/github_banner_4.png" alt="Hi, I'm Kashyap S Patel">
 
 ---
 
-<h1 align="center">Hi 👋, I'm Kashyap S Patel</h1>
+<!-- <h1 align="center">Hi 👋, I'm Kashyap S Patel</h1> -->
 
 <h3 align="center">A passionate Data Science student from India.</h3>
 
